@@ -71,4 +71,3 @@ Each dataset contains both numerical and categorical health indicators used to t
 - The system simplifies complex data-driven predictions into clear True/False outputs.
 - Integration with Streamlit allows real-time, interactive, and user-friendly diagnosis.
 - The Do’s and Don’ts feature enhances user engagement by providing practical guidance for disease management.
-- 
